@@ -12,7 +12,7 @@ Um layout final bem elaborado e desenhado aponta para um diferencial seu, mas n�
     - Express
     - Mysql
     - Sequelize
-    - Express
+    - Frontend: React, Vue ou um framework de sua escolha
     - HTML e CSS (ou algum pré-processador)
     - [Google Geocode API](https://developers.google.com/maps/documentation/geocoding/intro?hl=pt-br) (se precisar de uma API Key do Google, basta solicitar por e-mail)
     - [Leaflet](http://leafletjs.com/) para manipulação do mapa. O mapa a ser utilizado pode ser qualquer um (Google, Mapbox, OSM, etc).
